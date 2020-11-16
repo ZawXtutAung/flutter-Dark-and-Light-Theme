@@ -41,4 +41,3 @@ ThemeData _dark = ThemeData(brightness: Brightness.dark);
               },
             )
 ```
-# flutter-Dark-and-Light-Theme
